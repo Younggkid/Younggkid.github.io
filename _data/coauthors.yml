@@ -1,34 +1,32 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"cgx":
+  - firstname: ["Guoxing Chen"]
+    url: https://donnod.github.io
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"ml":
+  - firstname: ["Matthew Lentz"]
+    url: https://users.cs.duke.edu/~mlentz/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"fhf":
+  - firstname: ["Kartik Nayak"]
+    url: https://users.cs.duke.edu/~kartik/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"ygx":
+  - firstname: ["Ganxiang Yang"]
+    url: https://arxgy.github.io
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"hz":
+  - firstname: ["Zhen Huang"]
+    url: https://xmhuangzhen.github.io
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"zhj":
+  - firstname: ["Haojin Zhu"]
+    url: https://nsec.sjtu.edu.cn/~hjzhu/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"zyy":
+  - firstname: ["Yuanyuan Zhang"]
+    url: http://yyjess.com
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"fhf":
+  - firstname: ["Hongfei Fu"]
+    url: https://jhc.sjtu.edu.cn/~hongfeifu/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
