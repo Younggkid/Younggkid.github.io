@@ -1,32 +1,32 @@
 "cgx":
-  - firstname: ["Guoxing Chen"]
+  - firstname: ["Guoxing Chen", "Guoxing"]
     url: https://donnod.github.io
 
 "ml":
-  - firstname: ["Matthew Lentz"]
+  - firstname: ["Matthew Lentz", "Matt"]
     url: https://users.cs.duke.edu/~mlentz/
 
 "fhf":
-  - firstname: ["Kartik Nayak"]
+  - firstname: ["Kartik Nayak", "Kartik"]
     url: https://users.cs.duke.edu/~kartik/
 
 "ygx":
-  - firstname: ["Ganxiang Yang"]
+  - firstname: ["Ganxiang Yang", "Ganxiang"]
     url: https://arxgy.github.io
 
 "hz":
-  - firstname: ["Zhen Huang"]
+  - firstname: ["Zhen Huang", "Zhen"]
     url: https://xmhuangzhen.github.io
 
 "zhj":
-  - firstname: ["Haojin Zhu"]
+  - firstname: ["Haojin Zhu", "Haojin"]
     url: https://nsec.sjtu.edu.cn/~hjzhu/
 
 "zyy":
-  - firstname: ["Yuanyuan Zhang"]
+  - firstname: ["Yuanyuan Zhang", "Yuanyuan"]
     url: http://yyjess.com
 
 "fhf":
-  - firstname: ["Hongfei Fu"]
+  - firstname: ["Hongfei Fu", "Hongfei"]
     url: https://jhc.sjtu.edu.cn/~hongfeifu/
 
